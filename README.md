@@ -15,7 +15,7 @@
 ---
 
 В данный момент я веду разработку *своего* **сайта**, на котором будут 
-*все-все-все* мои проекты и навыки. Но к сожалению, он пока что **не готов**
+*все-все-все* мои проекты и навыки. Но к сожалению, он пока что не готов 😔
 
 Вы можете посетить <u>эту страницу</u>, что бы посмотреть на то, что уже есть: [gogortey.ru](https://gogortey.ru)
 
@@ -36,7 +36,7 @@
 🟦 You can easily contact me via **VK**: [https://vk.com/gog.ortey](https://vk.com/gog.ortey)
 
 At the moment I am developing my website, which will
-have *all* my projects and skills. But unfortunately, he is not ready yet
+have *all* my projects and skills. But unfortunately, he is not ready yet 😔
 
 You can visit this page to look at what is already there: [gogortey.ru](gogortey.ru)
 
