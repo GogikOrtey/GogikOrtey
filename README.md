@@ -46,7 +46,7 @@ You can visit this page to look at what is already there: [gogortey.ru](gogortey
 
 You can also look at my business cards (this is not the final version yet):
 
-![](/Пример визитки с блюр эффектом_02.png)
+![](/img1.png)
 
 ### Current skills:
 
