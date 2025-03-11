@@ -28,7 +28,7 @@
 **C#, JavaScript, Python, С++, html, css, sql, php, bash**
 
 
-Любимые языки программирования:
+Основные языки программирования:
 
 - **C#** - 36 проектов
 - **JS** - 21 проект
@@ -57,7 +57,8 @@ _И многие другие проекты. На данный момент н�
 
 ## Основной стек:
 
-### Backend: _— 62% от всех проектов_
+### Backend: 
+_62% от всех проектов_
 
 Знаю все базовые структуры данных, реализовывал их: [Динамические списки](https://github.com/GogikOrtey/Multiple_lists_University_labs), [Деревья](https://github.com/GogikOrtey/Trees_University_labs), [Сортировки](https://github.com/GogikOrtey/Sorting_University_labs), [Поиск в строке](https://github.com/GogikOrtey/Digital_field_search_University_labs), [Поиск по цифровому полю](https://github.com/GogikOrtey/Digital_field_2_search_University_labs). Знаю ООП: [ссылка](https://github.com/GogikOrtey/OOP_University_Labs). Умею работать с [WinForms C#](https://github.com/GogikOrtey/Course_work_for_algorithms_University_labs), а также 
  с [WPF](https://github.com/GogikOrtey/work_RevitAddin12_2024). Работал с [MVVM](https://github.com/GogikOrtey/work_RevitAddin12_2024)
@@ -65,7 +66,8 @@ _И многие другие проекты. На данный момент н�
 Много проектов было реализовано на C#, например: [Реализация красно-чёрного дерева](https://github.com/GogikOrtey/Trees_University_labs), [Курсовой проект по структурам данных](https://github.com/GogikOrtey/Course_work_for_algorithms_University_labs), [Транслятор с языка Rust на C++](https://github.com/GogikOrtey/Translator-from-Rust-to-C-plus-plus) и другие. Однако в последнее время увлёкся созданием проектов на Node.JS, например: [Сервис по подбору растений](https://github.com/GogikOrtey/PRIS_Project_Main), [Парсинг постов ВК](https://github.com/GogikOrtey/Parsing_VK_Posts), 
  и другие. В JavaScript мне нравится простота и масштабируемость
 
-### Frontend: _— 34% от всех проектов_
+### Frontend: 
+_34% от всех проектов_
 
 Нравится web разработка, есть много проектов интерактивных многостраничных сайтов. Например: [Сервис по подбору растений](https://github.com/GogikOrtey/PRIS_Project_Main), [Сайт про мультсериалы](https://github.com/GogikOrtey/MySite_Lab_Web_University_2023), [Сервис по подбору растений 2 с редактором БД](https://github.com/GogikOrtey/MITIPS_Progect_02), [Landing](https://github.com/GogikOrtey/React-Site_2023)[ ](https://github.com/GogikOrtey/React-Site_2023)[page](https://github.com/GogikOrtey/React-Site_2023)[ на ](https://github.com/GogikOrtey/React-Site_2023)[React](https://github.com/GogikOrtey/React-Site_2023), [Трёхстраничный прототип сайта](https://vk.com/wall-228455915_3), [Сайт с конфетти](https://github.com/GogikOrtey/Confetti_Site). Также в этих проектах много кода на JS, и есть связка сайтов с БД, которая хостится на сервере
 
@@ -113,7 +115,7 @@ _И многие другие проекты. На данный момент н�
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
 
-### Остальные языки, которые я использую:
+#### Остальные языки, которые я использую:
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 
